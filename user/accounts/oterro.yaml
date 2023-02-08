@@ -1,0 +1,11 @@
+state: enabled
+email: teryohana@gmail.com
+fullname: oterro
+title: Admin
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$vIqrQR66E8PXrwhCzcjCAOUmPg9nOdFXG13YIFzqhUq3kARU3yA.m

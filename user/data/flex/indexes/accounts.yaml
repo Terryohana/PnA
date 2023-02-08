@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1675593453
+count: 1
+index:
+  oterro:
+    storage_key: oterro
+    storage_timestamp: 1675593453
+    key: oterro
+    email: teryohana@gmail.com
